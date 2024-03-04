@@ -1,6 +1,6 @@
 .main {
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./images/city.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./assets/images/city.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
